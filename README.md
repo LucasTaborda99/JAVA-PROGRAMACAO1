@@ -3,10 +3,10 @@ Java - Programação 1 ☕ 💻
 
 PRACTICE MAKES PERFECT
 -------------------------------
-1. Calculadoras -
+1. Calc (Calculadoras) -
 Desenvolva uma calculadora
 
-2. ContaBanco 
+2. Conta Bancária  
 
 Desenvolva uma classe que represente uma conta de banco, cada objeto criado a partir desta classe deverá ter os seguintes campos:
 nome do titular
