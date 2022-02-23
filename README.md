@@ -1,11 +1,13 @@
 # JAVA-PROGRAMACAO 1
 Java - Programação 1 ☕ 💻
 
-Calculadoras 
-Desenvolva uma calculadora
+PRACTICE MAKES PERFECT
 -------------------------------
+1. Calculadoras -
+Desenvolva uma calculadora
 
-ContaBanco
+2. ContaBanco 
+
 Desenvolva uma classe que represente uma conta de banco, cada objeto criado a partir desta classe deverá ter os seguintes campos:
 nome do titular
 saldo da conta
